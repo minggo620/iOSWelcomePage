@@ -8,7 +8,7 @@
 
 ###Step Processes
 1. Adding UIScrollView to VC, set fullscreen constraints. UIScrollView add a unique container UIView, this is the same with the Android ScrollerView.
-<img src="https://github.com/minggo620/iOSWelcomePage/blob/master/welcomepage/demo1.png" width="640" height="960"><br/>
+![](https://github.com/minggo620/iOSWelcomePage/blob/master/welcomepage/demo1.png)<br>
 Then, XCode direct error reminder, this reminder that are not set in the sliding direction ScrollerView description, select the Quick treated as UIScrollerView add vertical and horizontal sliding restrictions, removal of errors reminder, the last time around and then slide restrictions can be deleted. Rapid processing as follows<br>
 ![](https://github.com/minggo620/iOSWelcomePage/blob/master/welcomepage/demo2.png)<br>
 2. Set UIScrollerView slide paging effect, like the Android ViewPager slide over to the next half of the default View. Of course, you can also be set in code
