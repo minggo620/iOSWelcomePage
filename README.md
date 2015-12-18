@@ -5,7 +5,7 @@
 
 Using UIScrollerView in Storyboard to make a simple welcome page demo.&nbsp;
 
-Thinking：
+###Thinking：
 1.Choosing vertical sliding direction on UIScrollerView.
 2.Adding your welcome picture on storyboard,they are equal width and height.
 3.Setting the first picture heiht constraint when viewDidLoad: as the height of screen.
