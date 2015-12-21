@@ -1,6 +1,7 @@
 # iOSWelcomePage
 [![Support](https://img.shields.io/badge/support-iOS%206%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
 ###Using UIScrollerView in Storyboard to make a simple welcome page demo.&nbsp;
 ###Thinking：&nbsp;
 1. Choosing vertical sliding direction on UIScrollerView. &nbsp;<br>
